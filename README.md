@@ -32,4 +32,4 @@ Please check the paper for more details regarding the benchmark protocol and dat
 <img src="images/data_lowRes.gif" style="width:1200px;"/>
 </p>
 
-The dataset and code will be released shortly after the accpetance of the paper. Please stay tuned!
+The dataset and code will be released shortly after the acceptance of the paper. Please stay tuned!
